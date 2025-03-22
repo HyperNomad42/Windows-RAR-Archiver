@@ -1,4 +1,4 @@
-# Movavi Video Suite 2025
+# WINRAR
 ### 
 >[!tip]
 > WinRAR is a leading file compression and archive management tool that supports multiple formats and password-protected archives.
